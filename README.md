@@ -1,6 +1,12 @@
 # youtube-dl
 Python gui youtube downloader
 
+## Requirements
+- youtube-dl
+- tkinter
+- functools
+- threading
+
 ## How to use
 
 Via a terminal, open `tkinterGUI.py` with python3(if it doesn't work try python2), and that's it.
